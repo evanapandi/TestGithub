@@ -3,4 +3,4 @@ resolusi 2022
 2. menjadi konten kreator
 3. memubuat vlog
 4. ertifikasi microtik
-
+5. sertifikasi fortigate
