@@ -1,6 +1,5 @@
 resolusi 2022
-1. membuat konten youtube
-2. menjadi konten kreator
-3. memubuat vlog
-4. ertifikasi microtik
-5. sertifikasi fortigate
+1. menjadi konten kreator
+2. memubuat vlog
+3. ertifikasi microtik
+4. sertifikasi fortigate
