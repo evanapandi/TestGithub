@@ -1,0 +1,4 @@
+rencana konten 
+1. vlog pribadi
+2. konten tutorial
+3. javascript tutorial
