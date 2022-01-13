@@ -4,4 +4,6 @@ rencana konten
   *kegiatan sehari hari 
 2. konten tutorial
 3. javascript tutorial
+  *framework angular
+  *react
 4. konten traveling 
